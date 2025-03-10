@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dj.7cgctnbh62.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\4.png",
+      "PackagePath": "staticwebassets\\Images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\6.jpg",
+      "PackagePath": "staticwebassets\\Images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\7.jpg",
+      "PackagePath": "staticwebassets\\Images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\8.jpg",
+      "PackagePath": "staticwebassets\\Images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\9.jpg",
+      "PackagePath": "staticwebassets\\Images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\bg1.png",
+      "PackagePath": "staticwebassets\\Images\\bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\bg2.png",
+      "PackagePath": "staticwebassets\\Images\\bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\logo-152.png",
+      "PackagePath": "staticwebassets\\Images\\logo-152.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\pattern1.png",
+      "PackagePath": "staticwebassets\\Images\\pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\pattern2.png",
+      "PackagePath": "staticwebassets\\Images\\pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\profil.png",
+      "PackagePath": "staticwebassets\\Images\\profil.png"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\Images\\soundwave1.gif",
+      "PackagePath": "staticwebassets\\Images\\soundwave1.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dj.props",
+      "PackagePath": "build\\Dj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dj.props",
+      "PackagePath": "buildMultiTargeting\\Dj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dj.props",
+      "PackagePath": "buildTransitive\\Dj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

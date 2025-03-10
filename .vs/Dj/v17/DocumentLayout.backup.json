@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alen\\Desktop\\Dj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\pages\\profil.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\pages\\profil.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\pages\\prijava.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\pages\\prijava.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|c:\\users\\alen\\desktop\\dj\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67555ABB-226D-4660-B13A-29F82169CECF}|Dj.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAIcXAAAAAAAAAAAuwJwXAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-10T20:40:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:23:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:23:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:23:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAPAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-10T18:19:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:19:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profil.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Profil.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Profil.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Profil.razor",
+              "RelativeToolTip": "Components\\Pages\\Profil.razor",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T17:12:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T14:58:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prijava.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Prijava.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Prijava.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Prijava.razor",
+              "RelativeToolTip": "Components\\Pages\\Prijava.razor",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T14:40:32.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Alen\\Desktop\\Dj\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAHIAAAAAAAAAAAASwIIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:37:14.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
