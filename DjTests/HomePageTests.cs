@@ -1,7 +1,6 @@
 ﻿using Bunit;
 using Dj.Components.Pages;
 using Xunit;
-using Dj; // Importirajte svoj Namespace za komponento Home.razor
 
 public class HomePageTests : TestContext
 {
