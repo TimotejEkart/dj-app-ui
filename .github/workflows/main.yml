@@ -19,11 +19,17 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Restore dependencies
+      - name: Restore DjApp dependencies
+        run: dotnet restore DjApp/DjApp.csproj
+
+      - name: Build DjApp
+        run: dotnet build -c Release --no-restore DjApp/DjApp.csproj
+
+      - name: Restore DjTests dependencies
         run: dotnet restore DjTests/DjTests.csproj
 
-      - name: Build the solution
-        run: dotnet build -c Release --no-restore DjTests/DjTests.csproj DjApp/DjApp.csproj
+      - name: Build DjTests
+        run: dotnet build -c Release --no-restore DjTests/DjTests.csproj
 
       - name: Run tests
         run: dotnet test -c Release --no-build DjTests/DjTests.csproj
